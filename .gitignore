@@ -25,10 +25,7 @@ build/Release
 build
 
 # Dependency directory
-node_modules/*
-!node_modules/angular
-!node_modules/jquery
-!node_modules/semantic-ui-css
+node_modules
 
 # Optional npm cache directory
 .npm
